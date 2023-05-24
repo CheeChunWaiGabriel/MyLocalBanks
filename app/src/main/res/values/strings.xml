@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLocalBanks</string>
+    <string name="FirstBank">DBS</string>
+    <string name="SecondBank">OCBC</string>
+    <string name="ThirdBank">UOB</string>
+    <string name="Option1">English</string>
+    <string name="Option2">Chinese</string>
+    <string name="Website">Website</string>
+    <string name="Call">Contact the bank</string>
+</resources>
